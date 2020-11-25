@@ -1,0 +1,5 @@
+m1,m2,m3,m4 = ([] for i in range(4))
+print(type(m1))
+print(m2)
+print(type(str(m3)))
+print(m4)
